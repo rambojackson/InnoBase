@@ -1,45 +1,19 @@
+---
+description: >-
+  A super cool spot bursting with fun tech snippets, shared adventures, and all
+  things groovy about Backend, Data, DevOps, and more!
+---
+
 # 👋 Welcome to my Knowledge Base
 
-{% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+## About Me
 
-## Overview
+I'm your friendly tech aficionado, a self-professed introvert. In the grand quest of **Backend, Software Architecture, Data Tricks, and DevOps** magic, I've got cozy with **Python, PHP, AWS, Kubernetes, AirFlow, Terraform, GitLab, and the secrets of CI/CD pipelines.**
 
-Here are a couple of example overviews from products with really great docs:
+## What's Up Ahead
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+In this super fun world of tech wonders, I've gathered my coolest tricks and adventures to guide both the new tech buds and the seasoned explorers. Using simple and fun guides, I'm here to make these tech thingamajigs a total blast for you!
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+## Discover The Tech Fun
 
-## Quick links
-
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
-{% endcontent-ref %}
-
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
-{% endcontent-ref %}
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
-{% endcontent-ref %}
+Step into the backstage where we build robust, scalable, and super-smart server-side applications. Unveil the secrets of building tech castles with neat designs and strategies in software architecture land. Explore the jungle of data processing, ETL fun, and the orchestration of data pipelines! Join the groovy DevOps party with Kubernetes, Terraform, GitLab, and CI/CD moves for a seamless tech dance.
