@@ -5,6 +5,9 @@
   * [Pipelines](data-engineering/pipelines.md)
 * [AWS](aws/README.md)
   * [VPC](aws/vpc.md)
+* [Python](python/README.md)
+  * [Basics](python/basics.md)
+  * [Advanced](python/advanced.md)
 
 ## Overview
 
