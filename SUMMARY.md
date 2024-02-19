@@ -6,7 +6,8 @@
 * [AWS](aws/README.md)
   * [VPC](aws/vpc.md)
 * [Python](python/README.md)
-  * [Basics](python/basics.md)
+  * [Basics](python/basics/README.md)
+    * [Page 1](python/basics/page-1.md)
   * [Advanced](python/advanced.md)
 
 ## Overview
