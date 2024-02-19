@@ -6,6 +6,7 @@
 * [AWS](aws/README.md)
   * [VPC](aws/vpc.md)
 * [Python](python/README.md)
+  * [Automating Article Publishing to Dev.to with Python](python/automating-article-publishing-to-dev.to-with-python.md)
   * [Basics](python/basics.md)
   * [Advanced](python/advanced.md)
 
